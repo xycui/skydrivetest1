@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">skydrivetest1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sky_drive">SkyDriveActivity</string>
+    <string name="logout">Logout</string>
+    <string name="file_tab">Files</string>
+    <string name="recent_tab">Recently</string>
+    <string name="share_tab">Shared</string>
+    <string name="set_tab">Setting</string>
+    <string name="title_activity_sky_drive_setting">SkyDriveSetting</string>
+
+</resources>
